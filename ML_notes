@@ -1,0 +1,18 @@
+Andrew NG's Machine Learning course
+
+=====
+Notes
+=====
+
+------------
+1st & 2 week
+------------
+
+. Definitions : 
+	Unsupervised - Clustering(grouping different news feeds), Non-clustering(cocktail party problem)
+	Supervised - Regression(find a coninous mapping from parameters to cost), Classification(classify something into discrete data groups)
+. Multivariate Linear Regression
+. Polynomial Regression (just another form of multivariate)
+. Feature Scaling
+. Gradient Descent
+. Normal Equations Method
